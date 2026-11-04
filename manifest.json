@@ -1,0 +1,36 @@
+{
+  "name": "BloodPril",
+  "short_name": "BloodPril",
+  "description": "BloodPril — natural blood pressure support supplement with L-Arginine & L-Citrulline. 60-day money-back guarantee.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a1628",
+  "theme_color": "#0a1628",
+  "lang": "en-US",
+  "dir": "ltr",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "categories": ["health", "medical", "shopping"],
+  "icons": [
+    {
+      "src": "images/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "images/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "images/bloodpril-3-bottle.webp",
+      "sizes": "420x420",
+      "type": "image/webp",
+      "label": "BloodPril 3-Bottle Package"
+    }
+  ]
+}
